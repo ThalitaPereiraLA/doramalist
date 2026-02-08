@@ -69,7 +69,7 @@ As metas de usabilidade são critérios essenciais que garantem que um sistema s
 
 ---
 
-### 2. 📚 Fácil de Entender
+### 2.  Fácil de Entender
 **Definição**: O sistema deve ser intuitivo, permitindo que novos usuários compreendam sua operação sem instruções extensas.
 
 **Implementação no DoramaList**:
@@ -245,7 +245,7 @@ As metas de experiência focam em como o usuário se **sente** ao usar o sistema
 ```
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 ### Stack Principal
 | Tecnologia | Versão | Propósito |
 |------------|--------|-----------|
@@ -308,7 +308,7 @@ O projeto utiliza um design system customizado definido em `index.css`:
 @keyframes slide-up      /* Entrada deslizante */
 ```
 ---
-## 🚀 Como Executar
+##  Como Executar
 ### Pré-requisitos
 - **Node.js** versão 18 ou superior
 - **npm**, **yarn**, **pnpm** ou **bun** como gerenciador de pacotes
@@ -349,7 +349,7 @@ npm run build
 npm run preview
 ```
 ---
-## 👨‍💻 Desenvolvimento
+##  Desenvolvimento
 ### Decisões de Design
 1. **Por que corações ao invés de estrelas?**
    - Corações são mais adequados ao tema romântico dos K-Dramas
@@ -366,7 +366,7 @@ npm run preview
 - Navegação por teclado funcional
 ---
 
-## 📄 Licença
+##  Licença
 Este projeto foi desenvolvido para fins **acadêmicos** como parte da disciplina de **Interação Humano-Computador**, porém é um projeto que já estava sendo iniciado antes mesmo da disciplina, aproveitei para aperfeiçoar e dar continuidade ao projeto.
 
 ---
