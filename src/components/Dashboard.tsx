@@ -76,7 +76,7 @@ const DRAMAS_DATA = [
     year: 2018,
     episodes: 16,
     genre: 'Romance',
-    image: '/O que Ha de Errado Com a Secretária Kim.jpg',
+    image: '/secretaria.jpg',
     description: 'È possível ser tão egocêntrico ao ponto de não ter ideia do que está acontecendo em sua volta? Lee Young Joon é vice-presidente da empresa de sua família, o Grupo Yoomyung. Ele é tão narcisista que não presta atenção ao que a sua fiel secretária, Kim Mi So, está tentando lhe dizer quase sempre.',
   },
 ];
