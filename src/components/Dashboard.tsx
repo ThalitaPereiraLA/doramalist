@@ -40,7 +40,7 @@ const DRAMAS_DATA = [
     year: 2026,
     episodes: 12,
     genre: 'Psicológico, Comédia, Romance, Drama',
-    image: '/public/O amor pode ser traduzido.jpg',
+    image: '/public/o amor pode ser traduzido.jpg',
     description: 'Um intérprete brilhante enfrenta seu maior desafio: decifrar as emoções imprevisíveis de uma celebridade. Será que ele consegue traduzir para a linguagem do amor?',
   },
   {
@@ -76,7 +76,7 @@ const DRAMAS_DATA = [
     year: 2018,
     episodes: 16,
     genre: 'Romance',
-    image: '/public/O que Ha de Errado com a Secretária Kim.jpg',
+    image: '/public/O que Ha de Errado Com a Secretária Kim.jpg',
     description: 'È possível ser tão egocêntrico ao ponto de não ter ideia do que está acontecendo em sua volta? Lee Young Joon é vice-presidente da empresa de sua família, o Grupo Yoomyung. Ele é tão narcisista que não presta atenção ao que a sua fiel secretária, Kim Mi So, está tentando lhe dizer quase sempre.',
   },
 ];
