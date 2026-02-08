@@ -31,7 +31,7 @@ const DRAMAS_DATA = [
     year: 2025,
     episodes: 12,
     genre: 'Suspense, Romance, Crime, Melo Drama',
-    image: '/public/Querido X.jpg',
+    image: '/Querido X.jpg',
     description: 'Quando Baek A Jin era pequena, ela sofreu violência doméstica. Para sobreviver, ela aprendeu a esconder suas emoções e manipular os outros ao ver seus corações. Ela é normalmente generosa e gentil com as pessoas, mas revela seu lado diabólico se alguém a irrita ou para seus próprios propósitos.',
   },
   {
@@ -40,7 +40,7 @@ const DRAMAS_DATA = [
     year: 2026,
     episodes: 12,
     genre: 'Psicológico, Comédia, Romance, Drama',
-    image: '/public/o amor pode ser traduzido.jpg',
+    image: '/o amor pode ser traduzido.jpg',
     description: 'Um intérprete brilhante enfrenta seu maior desafio: decifrar as emoções imprevisíveis de uma celebridade. Será que ele consegue traduzir para a linguagem do amor?',
   },
   {
@@ -49,7 +49,7 @@ const DRAMAS_DATA = [
     year: 2020,
     episodes: 16,
     genre: 'Comédia, Romance, Drama, Juventude',
-    image: '/public/Beleza Verdadeira.jpg',
+    image: '/Beleza Verdadeira.jpg',
     description: 'Ex-presidiário abre um pequeno bar em Itaewon e luta contra uma poderosa corporação de alimentos enquanto busca vingança.',
   },
   {
@@ -58,7 +58,7 @@ const DRAMAS_DATA = [
     year: 2018,
     episodes: 16,
     genre: 'Romance, Drama, Melo Drama',
-    image: '/public/Encontro.jpg',
+    image: '/Encontro.jpg',
     description: 'Cha Soo Hyun é a filha de uma poderosa família da política. Ela divorciou-se recentemente do seu rico marido de um casamento arranjado. Cansada de viver a vida guiada pelos outros, ela decide viajar para o exterior. Ela conhece no caminho Kim Jin Hyuk, um jovem espirituoso.',
   },
   {
@@ -67,7 +67,7 @@ const DRAMAS_DATA = [
     year: 2021,
     episodes: 16,
     genre: 'Militar, Comédia, Romance, Político',
-    image: '/public/Pousando no Amor.jpg',
+    image: '/Pousando no Amor.jpg',
     description: 'O drama é sobre uma herdeira rica chamada Yoon Se Ri, que, enquanto voava de parapente, é forçada a aterrissar na Coreia do Norte por causa dos ventos fortes. Um oficial norte-coreano chamado Ri Jung Hyuk a esconde e protege, assim, começando a amá-la.',
   },
   {
@@ -76,7 +76,7 @@ const DRAMAS_DATA = [
     year: 2018,
     episodes: 16,
     genre: 'Romance',
-    image: '/public/O que Ha de Errado Com a Secretária Kim.jpg',
+    image: '/O que Ha de Errado Com a Secretária Kim.jpg',
     description: 'È possível ser tão egocêntrico ao ponto de não ter ideia do que está acontecendo em sua volta? Lee Young Joon é vice-presidente da empresa de sua família, o Grupo Yoomyung. Ele é tão narcisista que não presta atenção ao que a sua fiel secretária, Kim Mi So, está tentando lhe dizer quase sempre.',
   },
 ];
